@@ -7,7 +7,7 @@
 - [ ] Emojis
 - [ ] Tables
 
-https://help.github.com/en![GitHubHelp]
+[GitHubHelp](https://help.github.com/en!)
 
 
 ttp://github.com - automatic![GitHub](http://github.com

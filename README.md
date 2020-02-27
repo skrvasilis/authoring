@@ -1,11 +1,11 @@
 # Github Flavoured Markdown
 
 
-- [ ] [External Link](https://help.github.com/en!)
-- [ ] [Internal Link](/images)
-- [ ] [images](images/logo.png)
-- [ ] [Emojis](#emoji)
-- [ ] [Tables](#table)
+- [x] [External Link](https://help.github.com/en!)
+- [x] [Internal Link](/images)
+- [x] [images](images/logo.png)
+- [x] [Emojis](#emoji)
+- [x] [Tables](#table)
 
 
 [GitHubHelp](https://help.github.com/en!)

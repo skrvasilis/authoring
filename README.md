@@ -4,8 +4,8 @@
 - [ ] [External Link](https://help.github.com/en!)
 - [ ] [Internal Link](/images)
 - [ ] [images](images/logo.png)
-- [ ] [Emojis](:blush:)
-- [ ] [Tables](Table)
+- [ ] [Emojis](#emoji)
+- [ ] [Tables](#table)
 
 
 [GitHubHelp](https://help.github.com/en!)
@@ -14,7 +14,7 @@
 
 [image](images/logo.png)
 
-
+# emoji
 :blush:
 
 # Table

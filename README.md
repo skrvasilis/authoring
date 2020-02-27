@@ -10,4 +10,4 @@
 [GitHubHelp](https://help.github.com/en!)
 
 
-ttp://github.com - automatic![GitHub](http://github.com
+[]https://github.com/skrvasilis/BDL-publishing-authoring/tree/master/images
